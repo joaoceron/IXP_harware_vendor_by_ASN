@@ -1,3 +1,3 @@
-# Hardware Vendor used by IXP Participants  
+# Mapping concentrations of device vendors at IXPs
 
-In this research we investigated the hardware vendor used by peers connected to Internet Exchange Points. We have collected MAC addresses from 17 IXPs in different countries and identify the IXP participants's market share by vendors. 
+Internet Exchange Points (IXPs) are among the most popular ways for Internet Service Providers (ISPs) and Content Distribution Networks (CDNs) to exchange traffic. In this post, we analyze the hardware that they use to connect to IXPs. We investigate  24 IXPs distributed across 15 countries, from the EU, US, Africa, and Brazil, which together interconnect more six thousand IXP members. Our goal is to determine if there is a market dominance from the part of the hardware vendors among IXP members.  
